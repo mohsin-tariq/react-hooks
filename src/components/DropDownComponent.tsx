@@ -4,13 +4,17 @@ import { selectors } from '../features/timezone'
 
 interface Props {
   zoneList: Zones[]
-  setSelecter: any
+  setZoneDetail: React.Dispatch<React.SetStateAction<Zones>>
 }
 
-const DropDownComponent = ({ zoneList, setSelecter }: Props): JSX.Element => {
+const DropDownComponent = ({ zoneList, setZoneDetail }: Props): JSX.Element => {
   const handleOnchage = (e) => {
     console.log('key:', e.target.value)
-    setSelecter(e.target.value)
+    setZoneDetail(
+      zoneList.filter(
+        (item) => selectors.getSelector(item) === e.target.value
+      )[0]
+    )
   }
   console.log('DropDown Component is called')
   return (
