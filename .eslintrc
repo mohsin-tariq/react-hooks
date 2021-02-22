@@ -1,0 +1,36 @@
+{
+  "root": true,
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint"],
+  "extends": [
+    "plugin:prettier/recommended",
+    "airbnb-typescript",
+    "prettier",
+    "prettier/@typescript-eslint",
+    "prettier/react",
+    "plugin:react-hooks/recommended"
+  ],
+  "env": {
+    "jest": true
+  },
+  "rules": {
+    // Make prettier code formatting suggestions more verbose.
+    "prettier/prettier": ["warn"],
+    // Disable <Fragment> => <> replacement. Feel free to change
+    "react/jsx-fragments": "off",
+    // Disable prefer default export
+    "import/prefer-default-export": "off",
+      // Disable react in scope because from 17.x no more needed
+    "react/jsx-uses-react": "off",
+    "react/react-in-jsx-scope": "off"
+  },
+  "overrides": [
+    {
+      "files": ["*.ts", "*.tsx"],
+      "parserOptions": {
+        "ecmaVersion": 12,
+        "project": ["./tsconfig.json"]
+      }
+    }
+  ]
+}
