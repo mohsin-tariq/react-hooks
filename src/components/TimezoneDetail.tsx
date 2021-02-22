@@ -1,4 +1,4 @@
-import { memo, useEffect } from 'react'
+import { useEffect } from 'react'
 import { useDispatch } from 'react-redux'
 import { Zones } from '../features/timezone/types'
 import { actionTypes } from '../features/timezone'
@@ -41,4 +41,4 @@ const TimezoneDetails = ({ zoneDetail, fetchData }: Props): JSX.Element => {
     </div>
   )
 }
-export default memo(TimezoneDetails)
+export default TimezoneDetails
