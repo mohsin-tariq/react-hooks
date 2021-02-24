@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 import { useDispatch } from 'react-redux'
-import { Zones, setTimeZone } from '../features/timezone'
+import { Zones, setTimeZone } from '../../features/timezone'
 
 interface Props {
   zoneDetail: Zones

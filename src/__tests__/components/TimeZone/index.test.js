@@ -1,5 +1,5 @@
-import { render, screen, fireEvent } from '../../testUtils'
-import TimeZone from '../../components/Timezone'
+import { render, screen, fireEvent } from '../../../testUtils'
+import TimeZone from '../../../components/TimeZone'
 
 describe('Timezone', () => {
   it('render Snapshot', () => {

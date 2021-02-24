@@ -1,6 +1,5 @@
-import React from 'react';
-import { render } from '../../testUtils'
-import TimezoneDetail from '../../components/TimezoneDetail'
+import { render } from '../../../testUtils'
+import TimezoneDetail from '../../../components/TimeZone/TimezoneDetail'
 
 
 describe('TimezoneDetail', () => {

@@ -21,6 +21,9 @@ const Navbar = (): JSX.Element => (
         <NavLink className="nav-item nav-link" to="/dashboard">
           Dashboard
         </NavLink>
+        <NavLink className="nav-item nav-link" to="/buttons">
+          Buttons
+        </NavLink>
       </div>
     </div>
   </nav>

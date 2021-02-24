@@ -1,6 +1,6 @@
 import { memo } from 'react'
-import { Zones } from '../features/timezone/types'
-import { selectors } from '../features/timezone'
+import { Zones } from '../../features/timezone/types'
+import { selectors } from '../../features/timezone'
 
 interface Props {
   zoneList: Zones[]

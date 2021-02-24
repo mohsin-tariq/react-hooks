@@ -1,0 +1,174 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Buttons match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="sc-hKgILt fhvbiK"
+    >
+      <div
+        class="sc-eCssSg fwZlmR"
+      >
+        <h1>
+          Normal
+        </h1>
+      </div>
+      <div
+        class="sc-eCssSg fwZlmR"
+      >
+        <h1>
+          Small
+        </h1>
+      </div>
+      <div
+        class="sc-eCssSg fwZlmR"
+      >
+        <h1>
+          Disabled
+        </h1>
+      </div>
+    </div>
+    <div
+      class="sc-hKgILt fhvbiK"
+    >
+      <div
+        class="sc-eCssSg fwZlmR"
+      >
+        <button
+          class="sc-gsTCUz hAkuog"
+          type="button"
+        >
+          Primary CTA
+        </button>
+      </div>
+      <div
+        class="sc-eCssSg fwZlmR"
+      >
+        <button
+          class="sc-gsTCUz bdTJsK"
+          type="button"
+        >
+          Primary CTA
+        </button>
+      </div>
+      <div
+        class="sc-eCssSg fwZlmR"
+      >
+        <button
+          class="sc-gsTCUz hAkuog"
+          disabled=""
+          type="button"
+        >
+          Primary CTA
+        </button>
+      </div>
+    </div>
+    <div
+      class="sc-hKgILt fhvbiK"
+    >
+      <div
+        class="sc-eCssSg fwZlmR"
+      >
+        <button
+          class="sc-dlfnbm kyBsDj"
+          type="button"
+        >
+          Secondary CTA
+        </button>
+      </div>
+      <div
+        class="sc-eCssSg fwZlmR"
+      >
+        <button
+          class="sc-dlfnbm garFqF"
+          type="button"
+        >
+          Secondary CTA
+        </button>
+      </div>
+      <div
+        class="sc-eCssSg fwZlmR"
+      >
+        <button
+          class="sc-dlfnbm kyBsDj"
+          disabled=""
+          type="button"
+        >
+          Secondary CTA
+        </button>
+      </div>
+    </div>
+    <div
+      class="sc-hKgILt fhvbiK"
+    >
+      <div
+        class="sc-eCssSg fwZlmR"
+      >
+        <button
+          class="sc-bdfBwQ kSvucB"
+          type="button"
+        >
+          Tertiary CTA
+        </button>
+      </div>
+      <div
+        class="sc-eCssSg fwZlmR"
+      >
+        <button
+          class="sc-bdfBwQ hSGdeH"
+          type="button"
+        >
+          Tertiary CTA
+        </button>
+      </div>
+      <div
+        class="sc-eCssSg fwZlmR"
+      >
+        <button
+          class="sc-bdfBwQ kSvucB"
+          disabled=""
+          type="button"
+        >
+          Tertiary CTA
+        </button>
+      </div>
+    </div>
+    <div
+      class="sc-hKgILt fhvbiK"
+      style="background-color: rgb(85, 85, 85); padding: 2rem 0px;"
+    >
+      <div
+        class="sc-eCssSg fwZlmR"
+      >
+        <button
+          class="sc-bdfBwQ ftdoaJ"
+          type="button"
+        >
+          Tertiary(L) CTA
+        </button>
+      </div>
+      <div
+        class="sc-eCssSg fwZlmR"
+      >
+        <button
+          class="sc-bdfBwQ kAgtaX"
+          type="button"
+        >
+          Tertiary(L) CTA
+        </button>
+      </div>
+      <div
+        class="sc-eCssSg fwZlmR"
+      >
+        <button
+          class="sc-bdfBwQ ftdoaJ"
+          disabled=""
+          type="button"
+        >
+          Tertiary(L) CTA
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

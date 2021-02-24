@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tertiary render Snapshot  1`] = `
+<DocumentFragment>
+  <button
+    class="sc-bdfBwQ kSvucB"
+    type="button"
+  >
+    Tertiary
+  </button>
+</DocumentFragment>
+`;

@@ -1,6 +1,5 @@
-import React from 'react';
-import { render, fireEvent, screen } from '../../testUtils'
-import DropDownComponent from '../../components/DropDownComponent'
+import { render, fireEvent, screen } from '../../../testUtils'
+import DropDownComponent from '../../../components/TimeZone/DropDownComponent'
 
 
 describe('DropDownComponent', () => {

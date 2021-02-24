@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Primary render Snapshot  1`] = `
+<DocumentFragment>
+  <button
+    class="sc-gsTCUz hAkuog"
+    type="button"
+  >
+    Primary
+  </button>
+</DocumentFragment>
+`;

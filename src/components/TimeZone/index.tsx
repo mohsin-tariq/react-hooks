@@ -1,8 +1,8 @@
 import { useEffect, useState, useMemo, useCallback } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 
-import { actionTypes, selectors, fetchAsync } from '../features/timezone'
-import { Zones } from '../features/timezone/types'
+import { actionTypes, selectors, fetchAsync } from '../../features/timezone'
+import { Zones } from '../../features/timezone/types'
 import DropDownComponent from './DropDownComponent'
 import TimezoneDetail from './TimezoneDetail'
 

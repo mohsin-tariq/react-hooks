@@ -26,6 +26,9 @@
   ],
   "exclude": [
     "react-perf-devtool",
-    "Window"
+    "Window",
+    "**/__tests__",
+    "**/*.test.ts",
+    "node_modules"
   ]
 }

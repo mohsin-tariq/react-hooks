@@ -38,6 +38,12 @@ exports[`Renders the connected app with initialState 1`] = `
         >
           Dashboard
         </a>
+        <a
+          class="nav-item nav-link"
+          href="/buttons"
+        >
+          Buttons
+        </a>
       </div>
     </div>
   </nav>

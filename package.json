@@ -23,7 +23,8 @@
     "react-scripts": "4.0.2",
     "redux": "4.0.5",
     "redux-devtools-extension": "^2.13.8",
-    "redux-mock-store": "^1.5.4"
+    "redux-mock-store": "^1.5.4",
+    "styled-components": "^5.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -35,7 +36,7 @@
     "check-types": "tsc",
     "test:coverage": "npm test -- --env=jsdom --coverage"
   },
-  "proxy": "http://localhost:5000",
+  "proxy": "http://api.timezonedb.com/v2.1",
   "eslintConfig": {
     "extends": "react-app"
   },
