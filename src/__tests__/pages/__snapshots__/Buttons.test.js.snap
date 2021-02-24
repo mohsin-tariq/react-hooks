@@ -4,24 +4,24 @@ exports[`Buttons match snapshot 1`] = `
 <DocumentFragment>
   <div>
     <div
-      class="sc-hKgILt fhvbiK"
+      class="sc-hKgILt kOnUUT"
     >
       <div
-        class="sc-eCssSg fwZlmR"
+        class="sc-eCssSg UJUKX"
       >
         <h1>
           Normal
         </h1>
       </div>
       <div
-        class="sc-eCssSg fwZlmR"
+        class="sc-eCssSg UJUKX"
       >
         <h1>
           Small
         </h1>
       </div>
       <div
-        class="sc-eCssSg fwZlmR"
+        class="sc-eCssSg UJUKX"
       >
         <h1>
           Disabled
@@ -29,33 +29,33 @@ exports[`Buttons match snapshot 1`] = `
       </div>
     </div>
     <div
-      class="sc-hKgILt fhvbiK"
+      class="sc-hKgILt kOnUUT"
     >
       <div
-        class="sc-eCssSg fwZlmR"
+        class="sc-eCssSg UJUKX"
       >
         <button
-          class="sc-gsTCUz hAkuog"
+          class="sc-gsTCUz lbHrva"
           type="button"
         >
           Primary CTA
         </button>
       </div>
       <div
-        class="sc-eCssSg fwZlmR"
+        class="sc-eCssSg UJUKX"
       >
         <button
-          class="sc-gsTCUz bdTJsK"
+          class="sc-gsTCUz cLggcv"
           type="button"
         >
           Primary CTA
         </button>
       </div>
       <div
-        class="sc-eCssSg fwZlmR"
+        class="sc-eCssSg UJUKX"
       >
         <button
-          class="sc-gsTCUz hAkuog"
+          class="sc-gsTCUz lbHrva"
           disabled=""
           type="button"
         >
@@ -64,33 +64,33 @@ exports[`Buttons match snapshot 1`] = `
       </div>
     </div>
     <div
-      class="sc-hKgILt fhvbiK"
+      class="sc-hKgILt kOnUUT"
     >
       <div
-        class="sc-eCssSg fwZlmR"
+        class="sc-eCssSg UJUKX"
       >
         <button
-          class="sc-dlfnbm kyBsDj"
+          class="sc-dlfnbm cPvlns"
           type="button"
         >
           Secondary CTA
         </button>
       </div>
       <div
-        class="sc-eCssSg fwZlmR"
+        class="sc-eCssSg UJUKX"
       >
         <button
-          class="sc-dlfnbm garFqF"
+          class="sc-dlfnbm gEvNgN"
           type="button"
         >
           Secondary CTA
         </button>
       </div>
       <div
-        class="sc-eCssSg fwZlmR"
+        class="sc-eCssSg UJUKX"
       >
         <button
-          class="sc-dlfnbm kyBsDj"
+          class="sc-dlfnbm cPvlns"
           disabled=""
           type="button"
         >
@@ -99,33 +99,33 @@ exports[`Buttons match snapshot 1`] = `
       </div>
     </div>
     <div
-      class="sc-hKgILt fhvbiK"
+      class="sc-hKgILt kOnUUT"
     >
       <div
-        class="sc-eCssSg fwZlmR"
+        class="sc-eCssSg UJUKX"
       >
         <button
-          class="sc-bdfBwQ kSvucB"
+          class="sc-bdfBwQ hEeSaj"
           type="button"
         >
           Tertiary CTA
         </button>
       </div>
       <div
-        class="sc-eCssSg fwZlmR"
+        class="sc-eCssSg UJUKX"
       >
         <button
-          class="sc-bdfBwQ hSGdeH"
+          class="sc-bdfBwQ fffBxK"
           type="button"
         >
           Tertiary CTA
         </button>
       </div>
       <div
-        class="sc-eCssSg fwZlmR"
+        class="sc-eCssSg UJUKX"
       >
         <button
-          class="sc-bdfBwQ kSvucB"
+          class="sc-bdfBwQ hEeSaj"
           disabled=""
           type="button"
         >
@@ -134,21 +134,21 @@ exports[`Buttons match snapshot 1`] = `
       </div>
     </div>
     <div
-      class="sc-hKgILt fhvbiK"
+      class="sc-hKgILt kOnUUT"
       style="background-color: rgb(85, 85, 85); padding: 2rem 0px;"
     >
       <div
-        class="sc-eCssSg fwZlmR"
+        class="sc-eCssSg UJUKX"
       >
         <button
-          class="sc-bdfBwQ ftdoaJ"
+          class="sc-bdfBwQ gjRXiy"
           type="button"
         >
           Tertiary(L) CTA
         </button>
       </div>
       <div
-        class="sc-eCssSg fwZlmR"
+        class="sc-eCssSg UJUKX"
       >
         <button
           class="sc-bdfBwQ kAgtaX"
@@ -158,10 +158,10 @@ exports[`Buttons match snapshot 1`] = `
         </button>
       </div>
       <div
-        class="sc-eCssSg fwZlmR"
+        class="sc-eCssSg UJUKX"
       >
         <button
-          class="sc-bdfBwQ ftdoaJ"
+          class="sc-bdfBwQ gjRXiy"
           disabled=""
           type="button"
         >

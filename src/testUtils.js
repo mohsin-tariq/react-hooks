@@ -1,4 +1,6 @@
-import { cleanup, render as rtlRender } from '@testing-library/react'
+
+/** eslint-disable **/
+import { render as rtlRender } from '@testing-library/react'
 import { Provider } from 'react-redux'
 import configureMockStore from 'redux-mock-store'
 import '@testing-library/jest-dom/extend-expect'

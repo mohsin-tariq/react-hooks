@@ -39,7 +39,9 @@ const Buttons = (): JSX.Element => (
         <SecondaryButton type="button">Secondary CTA</SecondaryButton>
       </Column>
       <Column>
-        <SecondaryButton type="button" small>Secondary CTA</SecondaryButton>
+        <SecondaryButton type="button" small>
+          Secondary CTA
+        </SecondaryButton>
       </Column>
       <Column>
         <SecondaryButton type="button" disabled>
@@ -52,7 +54,9 @@ const Buttons = (): JSX.Element => (
         <TertiaryButton type="button">Tertiary CTA</TertiaryButton>
       </Column>
       <Column>
-        <TertiaryButton type="button" small>Tertiary CTA</TertiaryButton>
+        <TertiaryButton type="button" small>
+          Tertiary CTA
+        </TertiaryButton>
       </Column>
       <Column>
         <TertiaryButton type="button" disabled>

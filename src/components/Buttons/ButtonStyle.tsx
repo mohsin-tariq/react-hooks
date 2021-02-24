@@ -23,6 +23,18 @@ const ButtonStyle = css`
     width: 100%;
     justify-content: center;
   }
+
+  &:hover {
+    cursor: pointer;
+  }
+
+  &:active {
+    cursor: pointer;
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+  }
 `
 
 export default ButtonStyle

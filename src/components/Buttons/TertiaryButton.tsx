@@ -12,7 +12,6 @@ export const TertiaryDisabledStyle = css`
   background-color: #fff;
   border: 1px solid #252525;
   opacity: 0.5;
-  cursor: not-allowed;
 `
 
 const TertiaryStyle = css`
