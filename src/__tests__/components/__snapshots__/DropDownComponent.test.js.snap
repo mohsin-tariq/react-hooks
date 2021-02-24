@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DropDownComponent render Snapshot 1`] = `
+<DocumentFragment>
+  <select>
+    <option>
+      Andorra, Europe/Andorra
+    </option>
+    <option>
+      Albania, Europe/Albania
+    </option>
+  </select>
+</DocumentFragment>
+`;

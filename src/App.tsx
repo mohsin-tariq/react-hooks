@@ -1,8 +1,8 @@
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
-import { Navbar } from './components/Navbar'
-import { Dashboard } from './pages/Dashboard'
+import Navbar from './components/Navbar'
+import Dashboard from './pages/Dashboard'
 
-import { Home } from './pages/Home'
+import Home from './pages/Home'
 
 const App = (): JSX.Element => {
   return (

@@ -3,7 +3,7 @@ import { devToolsEnhancer } from 'redux-devtools-extension'
 import { TimezoneReducer } from './features/timezone'
 
 /* Create root reducer, containing all features of the application */
-const rootReducer = combineReducers({
+export const rootReducer = combineReducers({
   zone: TimezoneReducer,
 })
 

@@ -15,7 +15,6 @@ const Timezone = (): JSX.Element => {
   const setZoneDetailCb = useCallback(setZoneDetail, [setZoneDetail])
 
   useEffect(() => {
-    console.log('initial useEffect')
     if (zoneList.length === 0) {
       apiCallBack('Europe/*').then((json) => {
         setZoneDetail(json[0])
@@ -28,7 +27,6 @@ const Timezone = (): JSX.Element => {
   }, [dispatch, apiCallBack, zoneList.length])
 
   const memoizedZoneList = useMemo(() => {
-    console.log('useMemo')
     return zoneList
   }, [zoneList])
 
@@ -36,7 +34,6 @@ const Timezone = (): JSX.Element => {
     return <div>Loading...</div>
   }
 
-  console.log('', zoneList)
   return (
     <>
       <DropDownComponent

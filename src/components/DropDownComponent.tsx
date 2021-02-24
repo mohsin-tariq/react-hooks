@@ -8,17 +8,15 @@ interface Props {
 }
 
 const DropDownComponent = ({ zoneList, setZoneDetail }: Props): JSX.Element => {
-  const handleOnchage = (e) => {
-    console.log('key:', e.target.value)
+  const handleOnChange = (e) => {
     setZoneDetail(
       zoneList.filter(
         (item) => selectors.getSelector(item) === e.target.value
       )[0]
     )
   }
-  console.log('DropDown Component is called')
   return (
-    <select onChange={(e) => handleOnchage(e)}>
+    <select onChange={(e) => handleOnChange(e)}>
       {zoneList.map((item) => (
         <option key={item.zoneName}>{selectors.getSelector(item)}</option>
       ))}

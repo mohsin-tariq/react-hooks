@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches snapshots, Home Components with recieved data 1`] = `
+<DocumentFragment>
+  <h1>
+    Time Zone Component
+  </h1>
+  <select>
+    <option>
+      Andorra, Europe/Andorra
+    </option>
+    <option>
+      Albania, Europe/Albania
+    </option>
+  </select>
+  <div
+    class="card mt-5"
+  >
+    <div
+      class="card-body"
+    >
+      <h5
+        class="card-text"
+      >
+        Country Code: AD
+      </h5>
+      <h5
+        class="card-text"
+      >
+        Country Name: Andorra
+      </h5>
+      <h5
+        class="card-text"
+      >
+        Zone Name: Europe/Andorra
+      </h5>
+      <p
+        class="card-title"
+      >
+        Date Time: Tue Feb 23 2021 12:48:50 GMT+0000 (Greenwich Mean Time)
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

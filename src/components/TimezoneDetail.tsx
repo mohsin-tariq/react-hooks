@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 import { useDispatch } from 'react-redux'
-import { Zones, setTimeZone} from '../features/timezone'
+import { Zones, setTimeZone } from '../features/timezone'
 
 interface Props {
   zoneDetail: Zones
@@ -14,13 +14,7 @@ const TimezoneDetails = ({
   setZoneDetail,
 }: Props): JSX.Element => {
   const dispatch = useDispatch()
-  const {
-    countryCode,
-    countryName,
-    zoneName,
-    gmtOffset,
-    timestamp,
-  } = zoneDetail
+  const { countryCode, countryName, zoneName, timestamp } = zoneDetail
 
   useEffect(() => {
     const interValId = setInterval(() => {
@@ -31,21 +25,15 @@ const TimezoneDetails = ({
     return () => clearInterval(interValId) // Clear Interval on unmount
   }, [dispatch, fetchData, zoneName, setZoneDetail])
 
-  console.log('List Item Component is called')
   return (
     <div className="card mt-5">
       <div className="card-body">
-        <h5 className="card-title">
-          Country Code: {countryCode}
-        </h5>
-        <h5 className="card-title">
-          Country Name: {countryName}
-        </h5>
-        <h5 className="card-title">
-          Zone Name: {zoneName}
-        </h5>
-        <p className="card-text">{gmtOffset}</p>
-        <p className="card-text">Date Time: {setTimeZone(timestamp)}</p>
+        <h5 className="card-text">Country Code: {countryCode}</h5>
+        <h5 className="card-text">Country Name: {countryName}</h5>
+        <h5 className="card-text">Zone Name: {zoneName}</h5>
+        <p className="card-title">
+          Date Time: {setTimeZone(timestamp).toString()}
+        </p>
       </div>
     </div>
   )

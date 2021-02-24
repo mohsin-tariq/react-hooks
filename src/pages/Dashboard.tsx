@@ -1,12 +1,11 @@
-import React from 'react'
 import { useHistory } from 'react-router-dom'
 
-export const Dashboard: React.FC = () => {
+const Dashboard = (): JSX.Element => {
   const history = useHistory()
 
   return (
     <>
-      <h1>Dashboard</h1>
+      <h1>Dashboard Page</h1>
       <button
         type="button"
         className="btn"
@@ -18,3 +17,5 @@ export const Dashboard: React.FC = () => {
     </>
   )
 }
+
+export default Dashboard
