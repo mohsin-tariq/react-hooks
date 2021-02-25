@@ -1,6 +1,20 @@
 import { css } from 'styled-components'
 import { breakpoints } from '../tools'
 
+export const PointStyles = css`
+  &:hover {
+    cursor: pointer;
+  }
+
+  &:active {
+    cursor: pointer;
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+  }
+`
+
 const ButtonStyle = css`
   display: flex;
   align-items: center;
@@ -23,18 +37,7 @@ const ButtonStyle = css`
     width: 100%;
     justify-content: center;
   }
-
-  &:hover {
-    cursor: pointer;
-  }
-
-  &:active {
-    cursor: pointer;
-  }
-
-  &:disabled {
-    cursor: not-allowed;
-  }
+  ${PointStyles}
 `
 
 export default ButtonStyle

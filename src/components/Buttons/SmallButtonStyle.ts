@@ -1,4 +1,5 @@
 import { css } from 'styled-components'
+import { PointStyles } from './ButtonStyle'
 
 const SmallButtonStyle = css`
   display: flex;
@@ -14,6 +15,7 @@ const SmallButtonStyle = css`
     height: 1.6rem;
     margin-right: 0.8rem;
   }
+  ${PointStyles}
 `
 
 export default SmallButtonStyle

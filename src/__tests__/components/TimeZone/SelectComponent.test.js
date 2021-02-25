@@ -1,10 +1,10 @@
 import { render, fireEvent, screen } from '../../../testUtils'
-import DropDownComponent from '../../../components/TimeZone/DropDownComponent'
+import { SelectComponent } from '../../../components'
 
 
-describe('DropDownComponent', () => {
+describe('SelectComponent', () => {
   it('render Snapshot', () => {
-    const { asFragment } = render(<DropDownComponent zoneList= {[
+    const { asFragment } = render(<SelectComponent zoneList= {[
       {
         countryCode: 'AD',
         countryName: 'Andorra',
@@ -26,7 +26,7 @@ describe('DropDownComponent', () => {
   })
 
   it('verify if element exists', () => {
-    render(<DropDownComponent  zoneList= {[
+    render(<SelectComponent  zoneList= {[
         {
           countryCode: 'AD',
           countryName: 'Andorra',
@@ -48,7 +48,7 @@ describe('DropDownComponent', () => {
   })
 
   it('onchange set value', () => {
-    render(<DropDownComponent  zoneList= {[
+    render(<SelectComponent  zoneList= {[
         {
           countryCode: 'AD',
           countryName: 'Andorra',

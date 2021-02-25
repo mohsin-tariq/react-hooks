@@ -18,11 +18,11 @@ const Navbar = (): JSX.Element => (
     </button>
     <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div className="navbar-nav">
-        <NavLink className="nav-item nav-link" to="/dashboard">
-          Dashboard
-        </NavLink>
         <NavLink className="nav-item nav-link" to="/buttons">
           Buttons
+        </NavLink>
+        <NavLink className="nav-item nav-link" to="/cards">
+          Cards
         </NavLink>
       </div>
     </div>

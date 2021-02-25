@@ -1,14 +1,14 @@
 import { render, screen, fireEvent } from '../../../testUtils'
-import TimeZone from '../../../components/TimeZone'
+import { Timezone } from '../../../components'
 
 describe('Timezone', () => {
   it('render Snapshot', () => {
-    const { asFragment } = render(<TimeZone />)
+    const { asFragment } = render(<Timezone />)
     expect(asFragment()).toMatchSnapshot()
   })
 
   it('useCallback: check update State and render another props', () => {
-    render(<TimeZone />)
+    render(<Timezone />)
     expect(screen.getByText('Zone Name: Europe/Andorra')).toBeInTheDocument();
     fireEvent.change(screen.getByDisplayValue('Andorra, Europe/Andorra'), {
       target: { value: "Albania, Europe/Albania" },

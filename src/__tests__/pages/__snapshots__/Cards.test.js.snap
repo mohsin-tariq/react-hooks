@@ -1,0 +1,782 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cards matches snapshots 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bkzZxe cCSXVi"
+    style="max-width: 800px;"
+  >
+    <h1>
+      Cards
+    </h1>
+    <div
+      class="sc-iBPRYJ cFcKOt"
+    >
+      <div
+        class="sc-fubCfw jnyclw"
+      >
+        <div
+          class="sc-jSgupP knAXbc"
+        >
+          <h2
+            class="sc-hKgILt vlvNU"
+          >
+            Cancel / recall payment, GBP 1,000.00
+          </h2>
+          <p
+            class="sc-eCssSg jdynrn"
+          >
+            1234567890123456 (GB), KUIML Business Company
+          </p>
+        </div>
+        <div
+          class="sc-jrAGrp AQCmy"
+        >
+          <div
+            class="sc-kEjbxe jrKTAG"
+          >
+            <span>
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-file-pdf fa-w-12 "
+                data-icon="file-pdf"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 384 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M181.9 256.1c-5-16-4.9-46.9-2-46.9 8.4 0 7.6 36.9 2 46.9zm-1.7 47.2c-7.7 20.2-17.3 43.3-28.4 62.7 18.3-7 39-17.2 62.9-21.9-12.7-9.6-24.9-23.4-34.5-40.8zM86.1 428.1c0 .8 13.2-5.4 34.9-40.2-6.7 6.3-29.1 24.5-34.9 40.2zM248 160h136v328c0 13.3-10.7 24-24 24H24c-13.3 0-24-10.7-24-24V24C0 10.7 10.7 0 24 0h200v136c0 13.2 10.8 24 24 24zm-8 171.8c-20-12.2-33.3-29-42.7-53.8 4.5-18.5 11.6-46.6 6.2-64.2-4.7-29.4-42.4-26.5-47.8-6.8-5 18.3-.4 44.1 8.1 77-11.6 27.6-28.7 64.6-40.8 85.8-.1 0-.1.1-.2.1-27.1 13.9-73.6 44.5-54.5 68 5.6 6.9 16 10 21.5 10 17.9 0 35.7-18 61.1-61.8 25.8-8.5 54.1-19.1 79-23.2 21.7 11.8 47.1 19.5 64 19.5 29.2 0 31.2-32 19.7-43.4-13.9-13.6-54.3-9.7-73.6-7.2zM377 105L279 7c-4.5-4.5-10.6-7-17-7h-6v128h128v-6.1c0-6.3-2.5-12.4-7-16.9zm-74.1 255.3c4.1-2.7-2.5-11.9-42.8-9 37.1 15.8 42.8 9 42.8 9z"
+                  fill="currentColor"
+                />
+              </svg>
+            </span>
+            <span>
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-print fa-w-16 "
+                data-icon="print"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M448 192V77.25c0-8.49-3.37-16.62-9.37-22.63L393.37 9.37c-6-6-14.14-9.37-22.63-9.37H96C78.33 0 64 14.33 64 32v160c-35.35 0-64 28.65-64 64v112c0 8.84 7.16 16 16 16h48v96c0 17.67 14.33 32 32 32h320c17.67 0 32-14.33 32-32v-96h48c8.84 0 16-7.16 16-16V256c0-35.35-28.65-64-64-64zm-64 256H128v-96h256v96zm0-224H128V64h192v48c0 8.84 7.16 16 16 16h48v96zm48 72c-13.25 0-24-10.75-24-24 0-13.26 10.75-24 24-24s24 10.74 24 24c0 13.25-10.75 24-24 24z"
+                  fill="currentColor"
+                />
+              </svg>
+            </span>
+          </div>
+          <div
+            class="sc-gKsewC cLGuzY"
+          >
+            <button
+              class="sc-bdfBwQ dqbUOJ"
+              type="button"
+            >
+              Reject
+            </button>
+            <button
+              class="sc-dlfnbm jcNQPz"
+              type="button"
+            >
+              Authorize
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-pFZIQ jnazqp"
+      >
+        <div
+          class="sc-fubCfw jnyclw"
+          style="flex-direction: column;"
+        >
+          <div
+            class="sc-iqHYGH knTyyL"
+          >
+            <div
+              class="sc-crrsfI hLaXrr"
+            >
+              <label
+                class="sc-fFubgz jfbZYa"
+              >
+                Request reference
+              </label>
+              <p
+                class="sc-eCssSg jdynrn"
+              >
+                SET29383ABCH
+              </p>
+            </div>
+            <div
+              class="sc-crrsfI hLaXrr"
+            >
+              <label
+                class="sc-fFubgz jfbZYa"
+              >
+                Category
+              </label>
+              <p
+                class="sc-eCssSg jdynrn"
+              >
+                Payment
+              </p>
+            </div>
+            <div
+              class="sc-crrsfI hLaXrr"
+            >
+              <label
+                class="sc-fFubgz jfbZYa"
+              >
+                Request status
+              </label>
+              <p
+                class="sc-eCssSg sc-hBEYos jdynrn joeFWl"
+              >
+                <span>
+                  <svg
+                    aria-hidden="true"
+                    class="svg-inline--fa fa-exclamation-circle fa-w-16 sc-kstrdz gApEjS"
+                    data-icon="exclamation-circle"
+                    data-prefix="fas"
+                    focusable="false"
+                    font-size="1.5rem"
+                    height="1.5rem"
+                    role="img"
+                    viewBox="0 0 512 512"
+                    width="1.5rem"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M504 256c0 136.997-111.043 248-248 248S8 392.997 8 256C8 119.083 119.043 8 256 8s248 111.083 248 248zm-248 50c-25.405 0-46 20.595-46 46s20.595 46 46 46 46-20.595 46-46-20.595-46-46-46zm-43.673-165.346l7.418 136c.347 6.364 5.609 11.346 11.982 11.346h48.546c6.373 0 11.635-4.982 11.982-11.346l7.418-136c.375-6.874-5.098-12.654-11.982-12.654h-63.383c-6.884 0-12.356 5.78-11.981 12.654z"
+                      fill="currentColor"
+                    />
+                  </svg>
+                </span>
+                Pending authorisation
+              </p>
+            </div>
+          </div>
+        </div>
+        <p
+          class="sc-eCssSg jdynrn"
+          style="margin-bottom: 1.8rem;"
+        >
+          Full Details
+        </p>
+      </div>
+    </div>
+    <div
+      class="sc-iBPRYJ cFcKOt"
+    >
+      <div
+        class="sc-fubCfw jnyclw"
+      >
+        <div
+          class="sc-jSgupP knAXbc"
+        >
+          <h2
+            class="sc-hKgILt vlvNU"
+          >
+            Cancel / recall payment, GBP 2,000.00
+          </h2>
+          <p
+            class="sc-eCssSg jdynrn"
+          >
+            1234567890123456 (GB), KUIML Business Company 2
+          </p>
+        </div>
+        <div
+          class="sc-jrAGrp AQCmy"
+        >
+          <div
+            class="sc-kEjbxe jrKTAG"
+          >
+            <span>
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-file-pdf fa-w-12 "
+                data-icon="file-pdf"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 384 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M181.9 256.1c-5-16-4.9-46.9-2-46.9 8.4 0 7.6 36.9 2 46.9zm-1.7 47.2c-7.7 20.2-17.3 43.3-28.4 62.7 18.3-7 39-17.2 62.9-21.9-12.7-9.6-24.9-23.4-34.5-40.8zM86.1 428.1c0 .8 13.2-5.4 34.9-40.2-6.7 6.3-29.1 24.5-34.9 40.2zM248 160h136v328c0 13.3-10.7 24-24 24H24c-13.3 0-24-10.7-24-24V24C0 10.7 10.7 0 24 0h200v136c0 13.2 10.8 24 24 24zm-8 171.8c-20-12.2-33.3-29-42.7-53.8 4.5-18.5 11.6-46.6 6.2-64.2-4.7-29.4-42.4-26.5-47.8-6.8-5 18.3-.4 44.1 8.1 77-11.6 27.6-28.7 64.6-40.8 85.8-.1 0-.1.1-.2.1-27.1 13.9-73.6 44.5-54.5 68 5.6 6.9 16 10 21.5 10 17.9 0 35.7-18 61.1-61.8 25.8-8.5 54.1-19.1 79-23.2 21.7 11.8 47.1 19.5 64 19.5 29.2 0 31.2-32 19.7-43.4-13.9-13.6-54.3-9.7-73.6-7.2zM377 105L279 7c-4.5-4.5-10.6-7-17-7h-6v128h128v-6.1c0-6.3-2.5-12.4-7-16.9zm-74.1 255.3c4.1-2.7-2.5-11.9-42.8-9 37.1 15.8 42.8 9 42.8 9z"
+                  fill="currentColor"
+                />
+              </svg>
+            </span>
+            <span>
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-print fa-w-16 "
+                data-icon="print"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M448 192V77.25c0-8.49-3.37-16.62-9.37-22.63L393.37 9.37c-6-6-14.14-9.37-22.63-9.37H96C78.33 0 64 14.33 64 32v160c-35.35 0-64 28.65-64 64v112c0 8.84 7.16 16 16 16h48v96c0 17.67 14.33 32 32 32h320c17.67 0 32-14.33 32-32v-96h48c8.84 0 16-7.16 16-16V256c0-35.35-28.65-64-64-64zm-64 256H128v-96h256v96zm0-224H128V64h192v48c0 8.84 7.16 16 16 16h48v96zm48 72c-13.25 0-24-10.75-24-24 0-13.26 10.75-24 24-24s24 10.74 24 24c0 13.25-10.75 24-24 24z"
+                  fill="currentColor"
+                />
+              </svg>
+            </span>
+          </div>
+          <div
+            class="sc-gKsewC cLGuzY"
+          >
+            <button
+              class="sc-bdfBwQ dqbUOJ"
+              type="button"
+            >
+              Reject
+            </button>
+            <button
+              class="sc-dlfnbm jcNQPz"
+              type="button"
+            >
+              Authorize
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-pFZIQ jnazqp"
+      >
+        <div
+          class="sc-fubCfw jnyclw"
+          style="flex-direction: column;"
+        >
+          <div
+            class="sc-iqHYGH knTyyL"
+          >
+            <div
+              class="sc-crrsfI hLaXrr"
+            >
+              <label
+                class="sc-fFubgz jfbZYa"
+              >
+                Request reference
+              </label>
+              <p
+                class="sc-eCssSg jdynrn"
+              >
+                SET29383ABCH
+              </p>
+            </div>
+            <div
+              class="sc-crrsfI hLaXrr"
+            >
+              <label
+                class="sc-fFubgz jfbZYa"
+              >
+                Category
+              </label>
+              <p
+                class="sc-eCssSg jdynrn"
+              >
+                Payment
+              </p>
+            </div>
+            <div
+              class="sc-crrsfI hLaXrr"
+            >
+              <label
+                class="sc-fFubgz jfbZYa"
+              >
+                Request status
+              </label>
+              <p
+                class="sc-eCssSg sc-hBEYos jdynrn joeFWl"
+              >
+                <span>
+                  <svg
+                    aria-hidden="true"
+                    class="svg-inline--fa fa-exclamation-circle fa-w-16 sc-kstrdz gApEjS"
+                    data-icon="exclamation-circle"
+                    data-prefix="fas"
+                    focusable="false"
+                    font-size="1.5rem"
+                    height="1.5rem"
+                    role="img"
+                    viewBox="0 0 512 512"
+                    width="1.5rem"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M504 256c0 136.997-111.043 248-248 248S8 392.997 8 256C8 119.083 119.043 8 256 8s248 111.083 248 248zm-248 50c-25.405 0-46 20.595-46 46s20.595 46 46 46 46-20.595 46-46-20.595-46-46-46zm-43.673-165.346l7.418 136c.347 6.364 5.609 11.346 11.982 11.346h48.546c6.373 0 11.635-4.982 11.982-11.346l7.418-136c.375-6.874-5.098-12.654-11.982-12.654h-63.383c-6.884 0-12.356 5.78-11.981 12.654z"
+                      fill="currentColor"
+                    />
+                  </svg>
+                </span>
+                Pending authorisation
+              </p>
+            </div>
+          </div>
+          <div
+            class="sc-dQppl eoCEGc"
+          >
+            <a
+              class="sc-bqyKva cgtRwZ"
+              href="#"
+            >
+              <span>
+                <svg
+                  aria-hidden="true"
+                  class="svg-inline--fa fa-paperclip fa-w-14 sc-kstrdz bXUvvY"
+                  data-icon="paperclip"
+                  data-prefix="fas"
+                  focusable="false"
+                  font-size="1.2rem"
+                  height="1.3rem"
+                  role="img"
+                  viewBox="0 0 448 512"
+                  width="1.2rem"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M43.246 466.142c-58.43-60.289-57.341-157.511 1.386-217.581L254.392 34c44.316-45.332 116.351-45.336 160.671 0 43.89 44.894 43.943 117.329 0 162.276L232.214 383.128c-29.855 30.537-78.633 30.111-107.982-.998-28.275-29.97-27.368-77.473 1.452-106.953l143.743-146.835c6.182-6.314 16.312-6.422 22.626-.241l22.861 22.379c6.315 6.182 6.422 16.312.241 22.626L171.427 319.927c-4.932 5.045-5.236 13.428-.648 18.292 4.372 4.634 11.245 4.711 15.688.165l182.849-186.851c19.613-20.062 19.613-52.725-.011-72.798-19.189-19.627-49.957-19.637-69.154 0L90.39 293.295c-34.763 35.56-35.299 93.12-1.191 128.313 34.01 35.093 88.985 35.137 123.058.286l172.06-175.999c6.177-6.319 16.307-6.433 22.626-.256l22.877 22.364c6.319 6.177 6.434 16.307.256 22.626l-172.06 175.998c-59.576 60.938-155.943 60.216-214.77-.485z"
+                    fill="currentColor"
+                  />
+                </svg>
+              </span>
+              Manage Attachments
+            </a>
+          </div>
+        </div>
+        <p
+          class="sc-eCssSg jdynrn"
+          style="margin-bottom: 1.8rem;"
+        >
+          Full Details
+        </p>
+      </div>
+    </div>
+    <div
+      class="sc-iBPRYJ cFcKOt"
+    >
+      <div
+        class="sc-fubCfw jnyclw"
+      >
+        <div
+          class="sc-jSgupP knAXbc"
+        >
+          <h2
+            class="sc-hKgILt vlvNU"
+          >
+            Cancel / recall payment, GBP 12,000.00
+          </h2>
+          <p
+            class="sc-eCssSg jdynrn"
+          >
+            1234567890123456 (GB), KUIML Business Company 3
+          </p>
+        </div>
+        <div
+          class="sc-jrAGrp AQCmy"
+        >
+          <div
+            class="sc-kEjbxe jrKTAG"
+          >
+            <span>
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-file-pdf fa-w-12 "
+                data-icon="file-pdf"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 384 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M181.9 256.1c-5-16-4.9-46.9-2-46.9 8.4 0 7.6 36.9 2 46.9zm-1.7 47.2c-7.7 20.2-17.3 43.3-28.4 62.7 18.3-7 39-17.2 62.9-21.9-12.7-9.6-24.9-23.4-34.5-40.8zM86.1 428.1c0 .8 13.2-5.4 34.9-40.2-6.7 6.3-29.1 24.5-34.9 40.2zM248 160h136v328c0 13.3-10.7 24-24 24H24c-13.3 0-24-10.7-24-24V24C0 10.7 10.7 0 24 0h200v136c0 13.2 10.8 24 24 24zm-8 171.8c-20-12.2-33.3-29-42.7-53.8 4.5-18.5 11.6-46.6 6.2-64.2-4.7-29.4-42.4-26.5-47.8-6.8-5 18.3-.4 44.1 8.1 77-11.6 27.6-28.7 64.6-40.8 85.8-.1 0-.1.1-.2.1-27.1 13.9-73.6 44.5-54.5 68 5.6 6.9 16 10 21.5 10 17.9 0 35.7-18 61.1-61.8 25.8-8.5 54.1-19.1 79-23.2 21.7 11.8 47.1 19.5 64 19.5 29.2 0 31.2-32 19.7-43.4-13.9-13.6-54.3-9.7-73.6-7.2zM377 105L279 7c-4.5-4.5-10.6-7-17-7h-6v128h128v-6.1c0-6.3-2.5-12.4-7-16.9zm-74.1 255.3c4.1-2.7-2.5-11.9-42.8-9 37.1 15.8 42.8 9 42.8 9z"
+                  fill="currentColor"
+                />
+              </svg>
+            </span>
+            <span>
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-print fa-w-16 "
+                data-icon="print"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M448 192V77.25c0-8.49-3.37-16.62-9.37-22.63L393.37 9.37c-6-6-14.14-9.37-22.63-9.37H96C78.33 0 64 14.33 64 32v160c-35.35 0-64 28.65-64 64v112c0 8.84 7.16 16 16 16h48v96c0 17.67 14.33 32 32 32h320c17.67 0 32-14.33 32-32v-96h48c8.84 0 16-7.16 16-16V256c0-35.35-28.65-64-64-64zm-64 256H128v-96h256v96zm0-224H128V64h192v48c0 8.84 7.16 16 16 16h48v96zm48 72c-13.25 0-24-10.75-24-24 0-13.26 10.75-24 24-24s24 10.74 24 24c0 13.25-10.75 24-24 24z"
+                  fill="currentColor"
+                />
+              </svg>
+            </span>
+          </div>
+          <div
+            class="sc-gKsewC cLGuzY"
+          >
+            <button
+              class="sc-bdfBwQ dqbUOJ"
+              type="button"
+            >
+              Reject
+            </button>
+            <button
+              class="sc-dlfnbm jcNQPz"
+              type="button"
+            >
+              Authorize
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-pFZIQ jnazqp"
+      >
+        <div
+          class="sc-fubCfw jnyclw"
+          style="flex-direction: column;"
+        >
+          <div
+            class="sc-iqHYGH knTyyL"
+          >
+            <div
+              class="sc-crrsfI hLaXrr"
+            >
+              <label
+                class="sc-fFubgz jfbZYa"
+              >
+                Request reference
+              </label>
+              <p
+                class="sc-eCssSg jdynrn"
+              >
+                SET29383ABCH
+              </p>
+            </div>
+            <div
+              class="sc-crrsfI hLaXrr"
+            >
+              <label
+                class="sc-fFubgz jfbZYa"
+              >
+                Category
+              </label>
+              <p
+                class="sc-eCssSg jdynrn"
+              >
+                Payment
+              </p>
+            </div>
+            <div
+              class="sc-crrsfI hLaXrr"
+            >
+              <label
+                class="sc-fFubgz jfbZYa"
+              >
+                Request status
+              </label>
+              <p
+                class="sc-eCssSg sc-hBEYos jdynrn joeFWl"
+              >
+                <span>
+                  <svg
+                    aria-hidden="true"
+                    class="svg-inline--fa fa-exclamation-circle fa-w-16 sc-kstrdz gApEjS"
+                    data-icon="exclamation-circle"
+                    data-prefix="fas"
+                    focusable="false"
+                    font-size="1.5rem"
+                    height="1.5rem"
+                    role="img"
+                    viewBox="0 0 512 512"
+                    width="1.5rem"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M504 256c0 136.997-111.043 248-248 248S8 392.997 8 256C8 119.083 119.043 8 256 8s248 111.083 248 248zm-248 50c-25.405 0-46 20.595-46 46s20.595 46 46 46 46-20.595 46-46-20.595-46-46-46zm-43.673-165.346l7.418 136c.347 6.364 5.609 11.346 11.982 11.346h48.546c6.373 0 11.635-4.982 11.982-11.346l7.418-136c.375-6.874-5.098-12.654-11.982-12.654h-63.383c-6.884 0-12.356 5.78-11.981 12.654z"
+                      fill="currentColor"
+                    />
+                  </svg>
+                </span>
+                Pending authorisation
+              </p>
+            </div>
+          </div>
+          <div
+            class="sc-dQppl eoCEGc"
+          >
+            <a
+              class="sc-bqyKva cgtRwZ"
+              href="#"
+            >
+              <span>
+                <svg
+                  aria-hidden="true"
+                  class="svg-inline--fa fa-paperclip fa-w-14 sc-kstrdz bXUvvY"
+                  data-icon="paperclip"
+                  data-prefix="fas"
+                  focusable="false"
+                  font-size="1.2rem"
+                  height="1.3rem"
+                  role="img"
+                  viewBox="0 0 448 512"
+                  width="1.2rem"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M43.246 466.142c-58.43-60.289-57.341-157.511 1.386-217.581L254.392 34c44.316-45.332 116.351-45.336 160.671 0 43.89 44.894 43.943 117.329 0 162.276L232.214 383.128c-29.855 30.537-78.633 30.111-107.982-.998-28.275-29.97-27.368-77.473 1.452-106.953l143.743-146.835c6.182-6.314 16.312-6.422 22.626-.241l22.861 22.379c6.315 6.182 6.422 16.312.241 22.626L171.427 319.927c-4.932 5.045-5.236 13.428-.648 18.292 4.372 4.634 11.245 4.711 15.688.165l182.849-186.851c19.613-20.062 19.613-52.725-.011-72.798-19.189-19.627-49.957-19.637-69.154 0L90.39 293.295c-34.763 35.56-35.299 93.12-1.191 128.313 34.01 35.093 88.985 35.137 123.058.286l172.06-175.999c6.177-6.319 16.307-6.433 22.626-.256l22.877 22.364c6.319 6.177 6.434 16.307.256 22.626l-172.06 175.998c-59.576 60.938-155.943 60.216-214.77-.485z"
+                    fill="currentColor"
+                  />
+                </svg>
+              </span>
+              Manage Attachments
+            </a>
+            <p
+              class="sc-eCssSg jdynrn"
+            >
+              <span>
+                <svg
+                  aria-hidden="true"
+                  class="svg-inline--fa fa-file fa-w-12 sc-kstrdz AgWzt"
+                  data-icon="file"
+                  data-prefix="fas"
+                  focusable="false"
+                  font-size="1.2rem"
+                  height="1.4rem"
+                  role="img"
+                  viewBox="0 0 384 512"
+                  width="1.4rem"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M224 136V0H24C10.7 0 0 10.7 0 24v464c0 13.3 10.7 24 24 24h336c13.3 0 24-10.7 24-24V160H248c-13.2 0-24-10.8-24-24zm160-14.1v6.1H256V0h6.1c6.4 0 12.5 2.5 17 7l97.9 98c4.5 4.5 7 10.6 7 16.9z"
+                    fill="currentColor"
+                  />
+                </svg>
+              </span>
+              Private request.
+              <span
+                class="sc-fodVxV jAEvOH"
+              >
+                This request can only be seen by you.
+              </span>
+            </p>
+          </div>
+        </div>
+        <p
+          class="sc-eCssSg jdynrn"
+          style="margin-bottom: 1.8rem;"
+        >
+          Full Details
+        </p>
+      </div>
+    </div>
+    <div
+      class="sc-iBPRYJ cFcKOt"
+    >
+      <div
+        class="sc-fubCfw jnyclw"
+      >
+        <div
+          class="sc-jSgupP knAXbc"
+        >
+          <h2
+            class="sc-hKgILt vlvNU"
+          >
+            Cancel / recall payment, GBP 101,000.00
+          </h2>
+          <p
+            class="sc-eCssSg jdynrn"
+          >
+            1234567890123456 (GB), KUIML Business Company 4
+          </p>
+        </div>
+        <div
+          class="sc-jrAGrp AQCmy"
+        >
+          <div
+            class="sc-kEjbxe jrKTAG"
+          >
+            <span>
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-file-pdf fa-w-12 "
+                data-icon="file-pdf"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 384 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M181.9 256.1c-5-16-4.9-46.9-2-46.9 8.4 0 7.6 36.9 2 46.9zm-1.7 47.2c-7.7 20.2-17.3 43.3-28.4 62.7 18.3-7 39-17.2 62.9-21.9-12.7-9.6-24.9-23.4-34.5-40.8zM86.1 428.1c0 .8 13.2-5.4 34.9-40.2-6.7 6.3-29.1 24.5-34.9 40.2zM248 160h136v328c0 13.3-10.7 24-24 24H24c-13.3 0-24-10.7-24-24V24C0 10.7 10.7 0 24 0h200v136c0 13.2 10.8 24 24 24zm-8 171.8c-20-12.2-33.3-29-42.7-53.8 4.5-18.5 11.6-46.6 6.2-64.2-4.7-29.4-42.4-26.5-47.8-6.8-5 18.3-.4 44.1 8.1 77-11.6 27.6-28.7 64.6-40.8 85.8-.1 0-.1.1-.2.1-27.1 13.9-73.6 44.5-54.5 68 5.6 6.9 16 10 21.5 10 17.9 0 35.7-18 61.1-61.8 25.8-8.5 54.1-19.1 79-23.2 21.7 11.8 47.1 19.5 64 19.5 29.2 0 31.2-32 19.7-43.4-13.9-13.6-54.3-9.7-73.6-7.2zM377 105L279 7c-4.5-4.5-10.6-7-17-7h-6v128h128v-6.1c0-6.3-2.5-12.4-7-16.9zm-74.1 255.3c4.1-2.7-2.5-11.9-42.8-9 37.1 15.8 42.8 9 42.8 9z"
+                  fill="currentColor"
+                />
+              </svg>
+            </span>
+            <span>
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-print fa-w-16 "
+                data-icon="print"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M448 192V77.25c0-8.49-3.37-16.62-9.37-22.63L393.37 9.37c-6-6-14.14-9.37-22.63-9.37H96C78.33 0 64 14.33 64 32v160c-35.35 0-64 28.65-64 64v112c0 8.84 7.16 16 16 16h48v96c0 17.67 14.33 32 32 32h320c17.67 0 32-14.33 32-32v-96h48c8.84 0 16-7.16 16-16V256c0-35.35-28.65-64-64-64zm-64 256H128v-96h256v96zm0-224H128V64h192v48c0 8.84 7.16 16 16 16h48v96zm48 72c-13.25 0-24-10.75-24-24 0-13.26 10.75-24 24-24s24 10.74 24 24c0 13.25-10.75 24-24 24z"
+                  fill="currentColor"
+                />
+              </svg>
+            </span>
+          </div>
+          <div
+            class="sc-gKsewC cLGuzY"
+          >
+            <button
+              class="sc-bdfBwQ dqbUOJ"
+              type="button"
+            >
+              Reject
+            </button>
+            <button
+              class="sc-dlfnbm jcNQPz"
+              type="button"
+            >
+              Authorize
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-pFZIQ jnazqp"
+      >
+        <div
+          class="sc-fubCfw jnyclw"
+          style="flex-direction: column;"
+        >
+          <div
+            class="sc-iqHYGH knTyyL"
+          >
+            <div
+              class="sc-crrsfI hLaXrr"
+            >
+              <label
+                class="sc-fFubgz jfbZYa"
+              >
+                Request reference
+              </label>
+              <p
+                class="sc-eCssSg jdynrn"
+              >
+                SET29383ABCH
+              </p>
+            </div>
+            <div
+              class="sc-crrsfI hLaXrr"
+            >
+              <label
+                class="sc-fFubgz jfbZYa"
+              >
+                Category
+              </label>
+              <p
+                class="sc-eCssSg jdynrn"
+              >
+                Payment
+              </p>
+            </div>
+            <div
+              class="sc-crrsfI hLaXrr"
+            >
+              <label
+                class="sc-fFubgz jfbZYa"
+              >
+                Request status
+              </label>
+              <p
+                class="sc-eCssSg sc-hBEYos jdynrn joeFWl"
+              >
+                <span>
+                  <svg
+                    aria-hidden="true"
+                    class="svg-inline--fa fa-exclamation-circle fa-w-16 sc-kstrdz gApEjS"
+                    data-icon="exclamation-circle"
+                    data-prefix="fas"
+                    focusable="false"
+                    font-size="1.5rem"
+                    height="1.5rem"
+                    role="img"
+                    viewBox="0 0 512 512"
+                    width="1.5rem"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M504 256c0 136.997-111.043 248-248 248S8 392.997 8 256C8 119.083 119.043 8 256 8s248 111.083 248 248zm-248 50c-25.405 0-46 20.595-46 46s20.595 46 46 46 46-20.595 46-46-20.595-46-46-46zm-43.673-165.346l7.418 136c.347 6.364 5.609 11.346 11.982 11.346h48.546c6.373 0 11.635-4.982 11.982-11.346l7.418-136c.375-6.874-5.098-12.654-11.982-12.654h-63.383c-6.884 0-12.356 5.78-11.981 12.654z"
+                      fill="currentColor"
+                    />
+                  </svg>
+                </span>
+                Pending authorisation
+              </p>
+            </div>
+          </div>
+          <div
+            class="sc-dQppl eoCEGc"
+          >
+            <p
+              class="sc-eCssSg jdynrn"
+            >
+              <span>
+                <svg
+                  aria-hidden="true"
+                  class="svg-inline--fa fa-file fa-w-12 sc-kstrdz AgWzt"
+                  data-icon="file"
+                  data-prefix="fas"
+                  focusable="false"
+                  font-size="1.2rem"
+                  height="1.4rem"
+                  role="img"
+                  viewBox="0 0 384 512"
+                  width="1.4rem"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M224 136V0H24C10.7 0 0 10.7 0 24v464c0 13.3 10.7 24 24 24h336c13.3 0 24-10.7 24-24V160H248c-13.2 0-24-10.8-24-24zm160-14.1v6.1H256V0h6.1c6.4 0 12.5 2.5 17 7l97.9 98c4.5 4.5 7 10.6 7 16.9z"
+                    fill="currentColor"
+                  />
+                </svg>
+              </span>
+              Private request.
+              <span
+                class="sc-fodVxV jAEvOH"
+              >
+                This request can only be seen by you.
+              </span>
+            </p>
+          </div>
+        </div>
+        <p
+          class="sc-eCssSg jdynrn"
+          style="margin-bottom: 1.8rem;"
+        >
+          Full Details
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

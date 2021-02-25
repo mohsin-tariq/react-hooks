@@ -1,5 +1,4 @@
-import React from 'react'
-import Timezone from '../components/TimeZone'
+import { Timezone } from '../components'
 
 const Home = (): JSX.Element => (
   <>

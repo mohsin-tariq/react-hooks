@@ -4,24 +4,24 @@ exports[`Buttons match snapshot 1`] = `
 <DocumentFragment>
   <div>
     <div
-      class="sc-hKgILt kOnUUT"
+      class="sc-bkzZxe cCSXVi"
     >
       <div
-        class="sc-eCssSg UJUKX"
+        class="sc-idOhPF bNiliF"
       >
         <h1>
           Normal
         </h1>
       </div>
       <div
-        class="sc-eCssSg UJUKX"
+        class="sc-idOhPF bNiliF"
       >
         <h1>
           Small
         </h1>
       </div>
       <div
-        class="sc-eCssSg UJUKX"
+        class="sc-idOhPF bNiliF"
       >
         <h1>
           Disabled
@@ -29,33 +29,33 @@ exports[`Buttons match snapshot 1`] = `
       </div>
     </div>
     <div
-      class="sc-hKgILt kOnUUT"
+      class="sc-bkzZxe cCSXVi"
     >
       <div
-        class="sc-eCssSg UJUKX"
+        class="sc-idOhPF bNiliF"
       >
         <button
-          class="sc-gsTCUz lbHrva"
+          class="sc-gsTCUz fqsqVY"
           type="button"
         >
           Primary CTA
         </button>
       </div>
       <div
-        class="sc-eCssSg UJUKX"
+        class="sc-idOhPF bNiliF"
       >
         <button
-          class="sc-gsTCUz cLggcv"
+          class="sc-gsTCUz CavRW"
           type="button"
         >
           Primary CTA
         </button>
       </div>
       <div
-        class="sc-eCssSg UJUKX"
+        class="sc-idOhPF bNiliF"
       >
         <button
-          class="sc-gsTCUz lbHrva"
+          class="sc-gsTCUz fqsqVY"
           disabled=""
           type="button"
         >
@@ -64,33 +64,33 @@ exports[`Buttons match snapshot 1`] = `
       </div>
     </div>
     <div
-      class="sc-hKgILt kOnUUT"
+      class="sc-bkzZxe cCSXVi"
     >
       <div
-        class="sc-eCssSg UJUKX"
+        class="sc-idOhPF bNiliF"
       >
         <button
-          class="sc-dlfnbm cPvlns"
+          class="sc-dlfnbm jcNQPz"
           type="button"
         >
           Secondary CTA
         </button>
       </div>
       <div
-        class="sc-eCssSg UJUKX"
+        class="sc-idOhPF bNiliF"
       >
         <button
-          class="sc-dlfnbm gEvNgN"
+          class="sc-dlfnbm dniwLl"
           type="button"
         >
           Secondary CTA
         </button>
       </div>
       <div
-        class="sc-eCssSg UJUKX"
+        class="sc-idOhPF bNiliF"
       >
         <button
-          class="sc-dlfnbm cPvlns"
+          class="sc-dlfnbm jcNQPz"
           disabled=""
           type="button"
         >
@@ -99,33 +99,33 @@ exports[`Buttons match snapshot 1`] = `
       </div>
     </div>
     <div
-      class="sc-hKgILt kOnUUT"
+      class="sc-bkzZxe cCSXVi"
     >
       <div
-        class="sc-eCssSg UJUKX"
+        class="sc-idOhPF bNiliF"
       >
         <button
-          class="sc-bdfBwQ hEeSaj"
+          class="sc-bdfBwQ dqbUOJ"
           type="button"
         >
           Tertiary CTA
         </button>
       </div>
       <div
-        class="sc-eCssSg UJUKX"
+        class="sc-idOhPF bNiliF"
       >
         <button
-          class="sc-bdfBwQ fffBxK"
+          class="sc-bdfBwQ bwgKGH"
           type="button"
         >
           Tertiary CTA
         </button>
       </div>
       <div
-        class="sc-eCssSg UJUKX"
+        class="sc-idOhPF bNiliF"
       >
         <button
-          class="sc-bdfBwQ hEeSaj"
+          class="sc-bdfBwQ dqbUOJ"
           disabled=""
           type="button"
         >
@@ -134,34 +134,34 @@ exports[`Buttons match snapshot 1`] = `
       </div>
     </div>
     <div
-      class="sc-hKgILt kOnUUT"
+      class="sc-bkzZxe cCSXVi"
       style="background-color: rgb(85, 85, 85); padding: 2rem 0px;"
     >
       <div
-        class="sc-eCssSg UJUKX"
+        class="sc-idOhPF bNiliF"
       >
         <button
-          class="sc-bdfBwQ gjRXiy"
+          class="sc-bdfBwQ jjkZJw"
           type="button"
         >
           Tertiary(L) CTA
         </button>
       </div>
       <div
-        class="sc-eCssSg UJUKX"
+        class="sc-idOhPF bNiliF"
       >
         <button
-          class="sc-bdfBwQ kAgtaX"
+          class="sc-bdfBwQ WykZK"
           type="button"
         >
           Tertiary(L) CTA
         </button>
       </div>
       <div
-        class="sc-eCssSg UJUKX"
+        class="sc-idOhPF bNiliF"
       >
         <button
-          class="sc-bdfBwQ gjRXiy"
+          class="sc-bdfBwQ jjkZJw"
           disabled=""
           type="button"
         >

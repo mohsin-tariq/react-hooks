@@ -34,15 +34,15 @@ exports[`Routing render Snapshot 1`] = `
       >
         <a
           class="nav-item nav-link"
-          href="/dashboard"
-        >
-          Dashboard
-        </a>
-        <a
-          class="nav-item nav-link"
           href="/buttons"
         >
           Buttons
+        </a>
+        <a
+          class="nav-item nav-link"
+          href="/cards"
+        >
+          Cards
         </a>
       </div>
     </div>

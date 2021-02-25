@@ -1,5 +1,5 @@
 import { render } from '../../../testUtils'
-import TimezoneDetail from '../../../components/TimeZone/TimezoneDetail'
+import { TimezoneDetail } from '../../../components'
 
 
 describe('TimezoneDetail', () => {

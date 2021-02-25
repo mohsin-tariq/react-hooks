@@ -7,7 +7,7 @@ interface Props {
   setZoneDetail: React.Dispatch<React.SetStateAction<Zones>>
 }
 
-const DropDownComponent = ({ zoneList, setZoneDetail }: Props): JSX.Element => {
+const SelectComponent = ({ zoneList, setZoneDetail }: Props): JSX.Element => {
   const handleOnChange = (e) => {
     setZoneDetail(
       zoneList.filter(
@@ -24,4 +24,4 @@ const DropDownComponent = ({ zoneList, setZoneDetail }: Props): JSX.Element => {
   )
 }
 
-export default memo(DropDownComponent)
+export default memo(SelectComponent)
