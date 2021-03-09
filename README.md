@@ -81,14 +81,6 @@ Below is the one generated from above command:
    npm run lint:fix
    ```
 
-## Components Screenshots
- ### Buttons
-![image](https://user-images.githubusercontent.com/22741874/109172568-d482f600-777a-11eb-9b55-1813a45f96c1.png)
-
- ### Cards
-![image](https://user-images.githubusercontent.com/22741874/109172742-04ca9480-777b-11eb-85db-c7489c03225d.png)
-
-
 ## Profiler
 
 ### Initial render:
